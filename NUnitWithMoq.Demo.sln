@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "NUnitWithMoq.Demo\Models.csproj", "{2880D8AA-9A6F-4C96-8CA8-DF242EE95E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestWithMoq", "NUnitTestWithMoq\NUnitTestWithMoq.csproj", "{02479169-7565-4185-9C32-DBC927CF9155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2880D8AA-9A6F-4C96-8CA8-DF242EE95E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2880D8AA-9A6F-4C96-8CA8-DF242EE95E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2880D8AA-9A6F-4C96-8CA8-DF242EE95E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2880D8AA-9A6F-4C96-8CA8-DF242EE95E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02479169-7565-4185-9C32-DBC927CF9155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02479169-7565-4185-9C32-DBC927CF9155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02479169-7565-4185-9C32-DBC927CF9155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02479169-7565-4185-9C32-DBC927CF9155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC753E18-C6FE-465D-B496-65DFF77450E1}
+	EndGlobalSection
+EndGlobal
